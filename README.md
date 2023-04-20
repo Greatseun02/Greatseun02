@@ -1,4 +1,5 @@
-### Hi there 👋
+![Hello gif](https://github.com/alansmathew/alansmathew/raw/master/lang.gif)
+### Hi there 👋 Welcome to my profile
 
 - 🔭 I’m currently working on Fullstack MERN projects.
 - 🌱 I’m currently learning React + Data structures and algorithm.
