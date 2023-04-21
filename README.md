@@ -2,9 +2,10 @@
 ### Hi there 👋 Welcome to my profile 😊
 
 <hr>
+
 ### About me
 
-I'm Goodnews, some might call me Oluwaseun, I am a computer science undergraduate with interest in AI and software development such as mobile app development and web app development. Java is my first language but I have long forgotten the language 🥲, I write codes in python and Javascript now. Learning full stack development because why not  😎... though I prefer the back-end. Introvert but loves to talk. Yoruba native, Anime freak, good music 🎵, and tvshows(The big bang theory 🐐).
+I'm Goodnews, some might call me Oluwaseun, I am a computer science undergraduate with interests in AI and software development such as mobile app development and web app development. Java is my first language but I have long forgotten the language 🥲, I write codes in python and Javascript now. Learning full stack development because why not  😎... though I prefer the back-end. Introvert but loves to talk. Yoruba native, Anime freak, good music 🎵, and tvshows(The big bang theory 🐐).
 <hr>
 
 - 🔭 I’m currently working on Fullstack MERN projects.
